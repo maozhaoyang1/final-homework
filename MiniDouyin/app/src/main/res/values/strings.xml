@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">迷你抖音</string>
+    <string name="videoList">VideoList</string>
+    <string name="camera">拍摄</string>
+    <string name="select_an_image">选择封面图</string>
+    <string name="select_a_video">选择视频</string>
+    <string name="post_it">上传</string>
+    <dimen name="pirtureDistance">3dp</dimen>
+</resources>
